@@ -1,4 +1,4 @@
-# Estrutura da Landing Page - Doce Morena
+# Estrutura da Landing Page - Doce Magia
 
 ## Visão Geral
 A landing page será desenvolvida com 5 seções principais, seguindo a identidade visual do perfil do Instagram e atendendo aos requisitos técnicos do contrato. O design será responsivo, com otimização para SEO básico e formulário de contato.
@@ -22,7 +22,7 @@ A landing page será desenvolvida com 5 seções principais, seguindo a identida
 
 ### 1. Hero/Banner Principal
 - **Conteúdo:** 
-  - Logo grande da Doce Morena
+  - Logo grande da Doce Magia
   - Slogan "O melhor ponto turístico de Serrinha"
   - Imagem de fundo mostrando produtos principais
   - Botão de chamada para ação (CTA) "Conheça nossos produtos"
@@ -34,7 +34,7 @@ A landing page será desenvolvida com 5 seções principais, seguindo a identida
 
 ### 2. Sobre Nós
 - **Conteúdo:**
-  - Breve história da Doce Morena
+  - Breve história da Doce Magia
   - Destaque para "ponto turístico de Serrinha"
   - Horário de funcionamento: "Aberto todos os dias"
   - Valores da marca
@@ -72,7 +72,7 @@ A landing page será desenvolvida com 5 seções principais, seguindo a identida
 - **Conteúdo:**
   - Formulário de contato (nome, email, mensagem)
   - Endereço (se disponível)
-  - Link para beacons.ai/docemorenabrasil
+  - Link para 
   - Botões de redes sociais
   - Mapa de localização (se disponível)
 - **Elementos visuais:**
