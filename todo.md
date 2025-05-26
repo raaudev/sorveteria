@@ -1,8 +1,8 @@
-# Lista de Tarefas para Criação da Landing Page
+# Lista de Tarefas para Criação da Landing Page - Doce Magia
 
 ## Análise de Materiais
 - [x] Extrair e analisar o contrato de serviço
-- [x] Analisar a imagem do perfil do Instagram (Doce Morena)
+- [x] Analisar a imagem do perfil do Instagram (Doce Magia)
 - [x] Identificar elementos visuais e identidade da marca
 
 ## Planejamento da Landing Page
